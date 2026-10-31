@@ -1,0 +1,17 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model cache
+.cache/
+"@ | Set-Content .gitignore
