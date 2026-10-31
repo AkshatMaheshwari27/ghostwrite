@@ -29,6 +29,16 @@ pip install -r requirements.txt
 streamlit run app.py
 \`\`\`
 
+## Demo
+
+### Story Generation
+
+![GhostWrite generating a story](halloween.png)
+
+### Generated Story
+
+![GhostWrite generated story](ghostwrite-demo.png)
+
 ## Hacktoberfest 2026
 
 Built for the Hacktoberfest Open-Source AI Challenge.
