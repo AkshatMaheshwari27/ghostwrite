@@ -1,5 +1,3 @@
-@"
-
 # GhostWrite 👻
 
 A local AI-powered ghost story generator built for the Hacktoberfest 2026 Open-Source AI Challenge.
